@@ -1403,6 +1403,7 @@ section {
   background: #f1f7fd;
 }
 #footer .footer-top {
+  
   padding: 60px 0 30px 0;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(25, 119, 204, 0.1);
@@ -1465,6 +1466,7 @@ section {
 }
 #footer .footer-newsletter {
   font-size: 15px;
+  width:42vw;
 }
 #footer .footer-newsletter h4 {
   font-size: 16px;
