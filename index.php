@@ -16,7 +16,9 @@
   <link rel="manifest" href="assets/img/site.webmanifest">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -33,15 +35,15 @@
 
 </head>
 
-<body  >
+<body>
 
   <!-- ======= Top Bar ======= -->
   <div id="topbar" class="d-flex align-items-center fixed-top">
     <div class="container d-flex justify-content-between">
-        <div class="contact-info d-flex align-items-center">
-          
-        </div>
-        
+      <div class="contact-info d-flex align-items-center">
+
+      </div>
+
       <div class="d-none d-lg-flex social-links align-items-center">
         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
         <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -65,13 +67,14 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Hospitals</a></li>
           <li><a class="nav-link scrollto" href="#departments">Dashboard</a></li>
-         
+
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="#appointment" class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span> Appointment</a>
+      <a href="#appointment" class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span>
+        Appointment</a>
 
     </div>
   </header><!-- End Header -->
@@ -96,7 +99,9 @@
             <div class="content">
               <h3>Why trust Our services?</h3>
               <p>
-                 During Covid-19 Period we have seen many families struggling to get basic information about doctors,hospitals,total beds and oxygen supply status. And now we would like to bridge this infromation gap by giving accurate and useful information through a click of button.
+                During Covid-19 Period we have seen many families struggling to get basic information about
+                doctors,hospitals,total beds and oxygen supply status. And now we would like to bridge this infromation
+                gap by giving accurate and useful information through a click of button.
               </p>
               <div class="text-center">
                 <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
@@ -124,7 +129,7 @@
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-images"></i>
                     <h4>Patient Feedbacks</h4>
-                    <p>Focus on past Patients experiences, stores record and also rate them annually  </p>
+                    <p>Focus on past Patients experiences, stores record and also rate them annually </p>
                   </div>
                 </div>
               </div>
@@ -141,17 +146,20 @@
 
         <div class="row">
           <div class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch position-relative">
-           
+
           </div>
 
-          <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+          <div
+            class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
             <h3>Healthcare Space provide following items free of cost "24/7"</h3>
-            <p>In this <b>era</b> of pandmic and global crisis.Taking care of <b>health</b> become everyone top priority.So, we take care of your all health related issues. </p>
+            <p>In this <b>era</b> of pandmic and global crisis.Taking care of <b>health</b> become everyone top
+              priority.So, we take care of your all health related issues. </p>
 
             <div class="icon-box">
               <div class="icon"><i class="bx"><img src="png/hospitals.png" style="width: 60px;"></i></div>
               <h4 class="title"><a href="">Lists of Hospitals</a></h4>
-              <p class="description">After going through detailed records and years of feedback from patient, we have built list of top health centre. </p>
+              <p class="description">After going through detailed records and years of feedback from patient, we have
+                built list of top health centre. </p>
             </div>
 
             <div class="icon-box">
@@ -162,8 +170,9 @@
 
             <div class="icon-box">
               <div class="icon"><i class="bx"><img src="png/services.png" style="width: 60px;"></i></div>
-               <h4 class="title"><a href="">Services</a></h4>
-              <p class="description">Simplified view of all services and cost of it provided for different health centre.</p>
+              <h4 class="title"><a href="">Services</a></h4>
+              <p class="description">Simplified view of all services and cost of it provided for different health
+                centre.</p>
             </div>
 
           </div>
@@ -171,7 +180,7 @@
 
       </div>
     </section><!-- End About Section -->
-  
+
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">
       <div class="container">
@@ -181,7 +190,8 @@
           <div class="col-lg-3 col-md-6">
             <div class="count-box">
               <i class="fas fa-user-md"></i>
-              <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1"
+                class="purecounter"></span>
               <p>Doctors</p>
             </div>
           </div>
@@ -189,7 +199,8 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
             <div class="count-box">
               <i class="far fa-hospital"></i>
-              <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1"
+                class="purecounter"></span>
               <p>Departments</p>
             </div>
           </div>
@@ -197,7 +208,8 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
               <i class="fas fa-flask"></i>
-              <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1"
+                class="purecounter"></span>
               <p>Research Labs</p>
             </div>
           </div>
@@ -205,7 +217,8 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
               <i class="fas fa-award"></i>
-              <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1"
+                class="purecounter"></span>
               <p>Awards</p>
             </div>
           </div>
@@ -220,7 +233,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>HOSPITALS</h2>  <!--serives-->
+          <h2>HOSPITALS</h2> <!--serives-->
 
           <p><span>Best Hospitals and their Services</span></p>
         </div>
@@ -258,10 +271,10 @@
                 Pathology,
                 Pediatrics,
                 Psychiatry</p>
-              
+
             </div>
           </div>
-          
+
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
@@ -282,12 +295,12 @@
               <p>Endoscopy,
                 Gastroenterology,
                 Pathology,
-               Endoscopic Ultrasound (EUS),
-               X-Ray,
-               Advanced Endoscopy,
-               Video Gastroduodenoscopy,
-               Video Colonoscopy,
-               Endoscopic Sclerotherapy</p>
+                Endoscopic Ultrasound (EUS),
+                X-Ray,
+                Advanced Endoscopy,
+                Video Gastroduodenoscopy,
+                Video Colonoscopy,
+                Endoscopic Sclerotherapy</p>
             </div>
           </div>
 
@@ -348,27 +361,32 @@
 
         <div class="section-title">
           <h2>Make an Appointment</h2>
-          <p>To ensure your families health and safety take the first step now. Make an appointment to mitigate the risk</p>
+          <p>To ensure your families health and safety take the first step now. Make an appointment to mitigate the risk
+          </p>
         </div>
 
-        <form action="forms/appointment.php" method="post" role="form" class="php-email-form">
+        <form action="/Healthcare-Space/assets/php/appointment.php" method="post" role="form" class="php-email-form">
           <div class="row">
             <div class="col-md-4 form-group">
-              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4"
+                data-msg="Please enter at least 4 chars">
               <div class="validate"></div>
             </div>
             <div class="col-md-4 form-group mt-3 mt-md-0">
-              <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email">
+              <input type="email" class="form-control" name="email" id="email" placeholder="Your Email"
+                data-rule="email" data-msg="Please enter a valid email">
               <div class="validate"></div>
             </div>
             <div class="col-md-4 form-group mt-3 mt-md-0">
-              <input type="tel" class="form-control" name="phone" id="phone" placeholder="Your Phone" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+              <input type="tel" class="form-control" name="phone" id="phone" placeholder="Your Phone"
+                data-rule="minlen:4" data-msg="Please enter at least 4 chars">
               <div class="validate"></div>
             </div>
           </div>
           <div class="row">
             <div class="col-md-4 form-group mt-3">
-              <input type="datetime" name="date" class="form-control datepicker" id="date" placeholder="Appointment Date" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+              <input type="date" name="date" class="form-control datepicker" id="date"
+                placeholder="Appointment Date" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
               <div class="validate"></div>
             </div>
             <div class="col-md-4 form-group mt-3">
@@ -412,84 +430,91 @@
       <div class="container">
         <h1 style="text-align: center;">Medical Infra Dashboard</h1>
         <section id="counts" class="counts">
-          
+
           <div class="container">
-             
+
             <div class="row">
-    
+
               <div class="col-lg-3 col-md-6">
                 <div class="count-box">
                   <i class="fas"><img src="png/icubed.png" style="width: 55px;"></i>
-                  <span data-purecounter-start="0" data-purecounter-end="450" data-purecounter-duration="1" class="purecounter"></span>
+                  <span data-purecounter-start="0" data-purecounter-end="450" data-purecounter-duration="1"
+                    class="purecounter"></span>
                   <p>ICU beds</p>
                 </div>
               </div>
-    
+
               <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
                 <div class="count-box">
                   <i class="far"><img src="png/icubed.png" style="width: 49px;"></i>
-                  <span data-purecounter-start="0" data-purecounter-end="2500" data-purecounter-duration="1" class="purecounter"></span>
+                  <span data-purecounter-start="0" data-purecounter-end="2500" data-purecounter-duration="1"
+                    class="purecounter"></span>
                   <p>Non-ICU beds</p>
                 </div>
               </div>
-    
+
               <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                 <div class="count-box">
-                  <i class="fas"><img src="png/nurses.png"style="width:49px;"></i>
-                  <span data-purecounter-start="0" data-purecounter-end="1115" data-purecounter-duration="1" class="purecounter"></span>
+                  <i class="fas"><img src="png/nurses.png" style="width:49px;"></i>
+                  <span data-purecounter-start="0" data-purecounter-end="1115" data-purecounter-duration="1"
+                    class="purecounter"></span>
                   <p>Total Nurses</p>
                 </div>
               </div>
-    
+
               <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
                 <div class="count-box">
                   <i class="fas"><img src="png/ambulance.png" style="width: 49px;"></i>
-                  <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
+                  <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1"
+                    class="purecounter"></span>
                   <p>Number of ambulances</p>
                 </div>
               </div>
-    
+
             </div>
-    
+
           </div>
-          </section>
-          <div class="container">
-            <h1 style="text-align:center">Oxygen Supply dashboard</h1>
-            <section id="counts" class="counts">
-              
-              <div class="container">
-                 
-                <div class="row">
-        
-                  <div class="col-lg-3 col-md-6" style="margin-left:140px">
-                    <div class="count-box">
-                      <i class="fas"><img src="png/icubed.png" style="width: 55px;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="450" data-purecounter-duration="1" class="purecounter"></span>
-                      <p>ICU beds</p>
-                    </div>
-                  </div>
-        
-                  <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
-                    <div class="count-box">
-                      <i class="far"><img src="png/nonicu.png" style="width: 49px;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="2500" data-purecounter-duration="1" class="purecounter"></span>
-                      <p>Non-ICU beds</p>
-                    </div>
-                  </div>
-        
-                  <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-                    <div class="count-box">
-                      <i class="fas"><img src="png/nurses.png"style="width:49px;"></i>
-                      <span data-purecounter-start="0" data-purecounter-end="1115" data-purecounter-duration="1" class="purecounter"></span>
-                      <p>Total Nurses</p>
-                    </div>
-                  </div>
-           </section>
-          </section>
+        </section>
+        <div class="container">
+          <h1 style="text-align:center">Oxygen Supply dashboard</h1>
+          <section id="counts" class="counts">
 
-         <!-- End Departments Section -->
+            <div class="container">
 
-     <!-- ======= Doctors Section ======= -->
+              <div class="row">
+
+                <div class="col-lg-3 col-md-6" style="margin-left:140px">
+                  <div class="count-box">
+                    <i class="fas"><img src="png/icubed.png" style="width: 55px;"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="450" data-purecounter-duration="1"
+                      class="purecounter"></span>
+                    <p>ICU beds</p>
+                  </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
+                  <div class="count-box">
+                    <i class="far"><img src="png/nonicu.png" style="width: 49px;"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="2500" data-purecounter-duration="1"
+                      class="purecounter"></span>
+                    <p>Non-ICU beds</p>
+                  </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+                  <div class="count-box">
+                    <i class="fas"><img src="png/nurses.png" style="width:49px;"></i>
+                    <span data-purecounter-start="0" data-purecounter-end="1115" data-purecounter-duration="1"
+                      class="purecounter"></span>
+                    <p>Total Nurses</p>
+                  </div>
+                </div>
+          </section>
+    </section>
+
+    <!-- End Departments Section -->
+
+    <!-- ======= Doctors Section ======= -->
     <section id="doctors" class="doctors">
       <div class="container">
 
@@ -502,12 +527,14 @@
 
           <div class="col-lg-6">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/doctors/DRRAMPRATAPSINGHBUNDELAMBBSMDDM-Jhansi-UP.jpeg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/doctors/DRRAMPRATAPSINGHBUNDELAMBBSMDDM-Jhansi-UP.jpeg"
+                  class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Dr.Rampratap Singh (MBBS,MD)</h4>
                 <span>Gastroenterologists</span>
                 <p>
-                  Endoscopic Ultrasound (EUS), Variceal Band Ligation.<p>
+                  Endoscopic Ultrasound (EUS), Variceal Band Ligation.
+                <p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -520,7 +547,8 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/doctors/DrSaurabhSrivastavaMBBSMDDM-Jhansi-UP.jpeg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/doctors/DrSaurabhSrivastavaMBBSMDDM-Jhansi-UP.jpeg"
+                  class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Dr. Saurabh Srivastava(MBBS,MD)</h4>
                 <span>Gastroenterologists</span>
@@ -537,7 +565,8 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/doctors/DrSharadChandraMBBSMDDM-Jhansi-UP.jpeg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/doctors/DrSharadChandraMBBSMDDM-Jhansi-UP.jpeg" class="img-fluid"
+                  alt=""></div>
               <div class="member-info">
                 <h4>Dr.Sharad chandra (MBBS,MD)</h4>
                 <span>Gastroenterologists</span>
@@ -580,16 +609,19 @@
 
         <div class="section-title">
           <h2>Frequently Asked Questions</h2>
-          <p style="font-size: 20px; font-weight: 700;">Get fast answers to your clinical questions from trusted experts you recognize.</p>
+          <p style="font-size: 20px; font-weight: 700;">Get fast answers to your clinical questions from trusted experts
+            you recognize.</p>
         </div>
 
         <div class="faq-list">
           <ul>
             <li data-aos="fade-up">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">What should I do if I feel exhausted? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse"
+                data-bs-target="#faq-list-1">What should I do if I feel exhausted? <i
+                  class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                 <p>
-              
+
                   1.Eat a balanced diet.<br>
                   2.Get regular exercise.<br>
                   3.Drink more water.<br>
@@ -602,28 +634,37 @@
             </li>
 
             <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">What can I do if I feel overwhelmed? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2"
+                class="collapsed">What can I do if I feel overwhelmed? <i class="bx bx-chevron-down icon-show"></i><i
+                  class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Take a deep breath and step away. If you're feeling overwhelmed or anxious, a quick way to begin to alleviate those feelings is by doing breathing exercise.
+                  Take a deep breath and step away. If you're feeling overwhelmed or anxious, a quick way to begin to
+                  alleviate those feelings is by doing breathing exercise.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed"> Should i  go to office if  i have symptoms of covid ? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3"
+                class="collapsed"> Should i go to office if i have symptoms of covid ? <i
+                  class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Try to avoid going out as this may infect others also. This routine should be follow upto 10 days from when your symptoms first started.Take proper medication, seek doctor help whenever needed.
+                  Try to avoid going out as this may infect others also. This routine should be follow upto 10 days from
+                  when your symptoms first started.Take proper medication, seek doctor help whenever needed.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">How Covid-19 spreads? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4"
+                class="collapsed">How Covid-19 spreads? <i class="bx bx-chevron-down icon-show"></i><i
+                  class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                 SARS-CoV-2 is mainly spread via respiratory droplets including aerosols from an infected person who sneezes, coughs, speaks, sings or breathes in close proximity to other people. 
+                  SARS-CoV-2 is mainly spread via respiratory droplets including aerosols from an infected person who
+                  sneezes, coughs, speaks, sings or breathes in close proximity to other people.
                 </p>
               </div>
             </li>
@@ -649,9 +690,11 @@
                   <h4>Student</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    During lockdown i was infected with "Covid-19" due to which i was facing respiratory problems. 
-                    So, i decided completely cure it, but at that time i don't know about any good doctor near me and at that very moment "Healthcare Services"  helped me a lot they provided me the list of doctors who are specialize in this domain and also provided there previous patient feedback.
-                     
+                    During lockdown i was infected with "Covid-19" due to which i was facing respiratory problems.
+                    So, i decided completely cure it, but at that time i don't know about any good doctor near me and at
+                    that very moment "Healthcare Services" helped me a lot they provided me the list of doctors who are
+                    specialize in this domain and also provided there previous patient feedback.
+
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -666,8 +709,10 @@
                   <h4>Software Development Engineer</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    Last month, one of my family member encountered with a road accident.Due to which we have to hospitalize him and during all of this i was thinking about cost of treatment and services 
-                    hospital provides and that moment " Healthcare-Space" services helped me a lot. Due to which i took a wise decision and save both time and money.
+                    Last month, one of my family member encountered with a road accident.Due to which we have to
+                    hospitalize him and during all of this i was thinking about cost of treatment and services
+                    hospital provides and that moment " Healthcare-Space" services helped me a lot. Due to which i took
+                    a wise decision and save both time and money.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -682,8 +727,9 @@
                   <h4>Store Owner</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      As a store owner my physical activities are reduced significantly, due to which i was facing health issues and want to go for checkup and here 
-                      Healthcare-Space helped me out.
+                    As a store owner my physical activities are reduced significantly, due to which i was facing health
+                    issues and want to go for checkup and here
+                    Healthcare-Space helped me out.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -698,7 +744,8 @@
                   <h4>Freelancer</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      Healthcare-Space services helped me alot during Covid-19 period from finding right doctor to giving me appointment facility.
+                    Healthcare-Space services helped me alot during Covid-19 period from finding right doctor to giving
+                    me appointment facility.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -713,10 +760,10 @@
                   <h4>Entrepreneur</h4>
                   <p>
                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                      Covid-19 period was a tough time for me and family, during this time my whole family 
-                      was infected by covid but it was due to god grace they recovered. But after sometime they
-                      started complaining about respiratory issues so for that i have to find local doctor who
-                      can look into matter and here "Healthcare-Space" helped me out. 
+                    Covid-19 period was a tough time for me and family, during this time my whole family
+                    was infected by covid but it was due to god grace they recovered. But after sometime they
+                    started complaining about respiratory issues so for that i have to find local doctor who
+                    can look into matter and here "Healthcare-Space" helped me out.
                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                   </p>
                 </div>
@@ -736,7 +783,7 @@
 
         <div class="section-title">
           <h2>Gallery</h2>
-      
+
         </div>
       </div>
 
@@ -818,69 +865,71 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-      <div class="container">
-        <div class="row mt-5">
+          <div class="container">
+            <div class="row mt-5">
 
-          <div class="col-lg-4">
-            <div class="info">
-              <div class="address">
-                <i class="bi bi-geo-alt"></i>
-                <h4>Location:</h4>
-                <p>Bundelkhand University Jhansi, uttar pradesh 284128, India </p>
+              <div class="col-lg-4">
+                <div class="info">
+                  <div class="address">
+                    <i class="bi bi-geo-alt"></i>
+                    <h4>Location:</h4>
+                    <p>Bundelkhand University Jhansi, uttar pradesh 284128, India </p>
+                  </div>
+
+                  <div class="email">
+                    <i class="bi bi-envelope"></i>
+                    <h4>Email:</h4>
+                    <p>registrar@bujhansi.ac.in</p>
+                  </div>
+
+                  <div class="phone">
+                    <i class="bi bi-phone"></i>
+                    <h4>Call:</h4>
+                    <p> 0510-2320497</p>
+                  </div>
+
+                </div>
+
               </div>
 
-              <div class="email">
-                <i class="bi bi-envelope"></i>
-                <h4>Email:</h4>
-                <p>registrar@bujhansi.ac.in</p>
-              </div>
+              <div class="col-lg-8 mt-5 mt-lg-0">
 
-              <div class="phone">
-                <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
-                <p>	0510-2320497</p>
+                <form action="/Healthcare-Space/assets/php/contact.php" method="post" role="form" class="php-email-form">
+                  <div class="row">
+                    <div class="col-md-6 form-group">
+                      <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                    </div>
+                    <div class="col-md-6 form-group mt-3 mt-md-0">
+                      <input type="email" class="form-control" name="email" id="email" placeholder="Your Email"
+                        required>
+                    </div>
+                  </div>
+                  <div class="form-group mt-3">
+                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                  </div>
+                  <div class="form-group mt-3">
+                    <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                  </div>
+                  <div class="my-3">
+                    <div class="loading">Loading</div>
+                    <div class="error-message"></div>
+                    <div class="sent-message">Your message has been sent. Thank you!</div>
+                  </div>
+                  <div class="text-center"><button type="submit">Send Message</button></div>
+                </form>
+                
               </div>
 
             </div>
 
           </div>
-
-          <div class="col-lg-8 mt-5 mt-lg-0">
-
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                </div>
-              </div>
-              <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-              </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
-
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Contact Section -->
-
-  </main><!-- End #main -->
+    </section>
+    <!-- End Contact Section -->
+  </main>
+  <!-- End #main -->
 
   <!-- ======= Footer ======= -->
-      <!-- ======= Footer ======= -->
+  <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">
       <div class="container">
@@ -888,11 +937,11 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Healthcare-Space</h3>
             <p>
-               Bundelkhand University Jhansi   <br>
-               Uttar pardesh 284128<br>
-                  India <br>
-                      <br>
-              <strong>Phone:</strong>	0510-2320497<br>
+              Bundelkhand University Jhansi <br>
+              Uttar pardesh 284128<br>
+              India <br>
+              <br>
+              <strong>Phone:</strong> 0510-2320497<br>
               <strong>Email:</strong>registrar@bujhansi.ac.in <br>
             </p>
           </div>
@@ -938,7 +987,7 @@
           &copy; Copyright <strong><span>Healthcare-Space</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-         
+
           Designed by <a href="#">Shyamji tripathi ,Ravindra Kumar</a>
         </div>
       </div>
@@ -953,7 +1002,8 @@
   </footer><!-- End Footer -->
 
   <div id="preloader"></div>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter.js"></script>
